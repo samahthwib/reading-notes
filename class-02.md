@@ -1,8 +1,8 @@
 
 
-#### TEXT 
+## TEXT 
 
-HTML elements are used t XX o describe the structure of the page
+HTML elements are used to describe the structure of the page.
 * **Headings** HTML has six levels of headings: from `<h1>` to `<h6>` .
 * **Paragraphs** To create a paragraph, surround the words that make up the paragraph with an opening `<p>` .tag and closing `</p>` tag .
 * **Bold & Italic** you can use these element : `<b>` for bold and `<i>` for italic.
@@ -12,9 +12,9 @@ HTML elements are used t XX o describe the structure of the page
 * **Quotations** There are two elements commonly used for marking up quotations: `<blockquote>` and `<q>`.
 * **Abbreviations & Acronyms** you can use these elements : `<abbr>` for abbreviations and `<acronym>` for acronyms.
 * **Citations & Definitions** you can use these elements : `<cite>` for citations and `<dfn>` for definitions.
-* **Auth or Details** you can use these elements : <address>
+* **Auth or Details** you can use this element : <address>
 
-#### CSS
+## CSS
 CSS works by associating rules with HTML elements. These rules govern how the content of specified elements should be displayed. A CSS rule contains two parts: a selector and a declaration.for example:
 
 p {
@@ -32,7 +32,7 @@ You can add the CSS code in three ways:
 **CSS Selectors** : There are many different types of CSS selector that allow you to target rules to specific elements in an HTML document. for example : Class Selector , ID Selector amd Type Selector.
 
 
-#### JavaScript
+## JavaScript
 
 **statement** A script is a series of instructions that a computer can follow one-by-one. Each individual instruction or step is known as a statement.it should end with a semicolon.
 **Comments** to explain what your code does.They help make your code easier to read and understand.This can help you and others who read your code.
@@ -43,7 +43,7 @@ variable declaration : var variable name;
 numbering of this list starts at zero (not one).
 **Operators** expressions rely on things called operators; they allow programmers to create a single value from one or more values.Types of operators : ASSIGNMENT OPERATORS,ARITHMETIC OPERATORS,STRING OPERATORS,LOGICAL OPERATORS,COMPARISON OPERATORS.
 
-###### Decisions and Loops 
+## Decisions and Loops 
 There are two components to a decision:
 1. An expression is evaluated,which returns a value.
 2. A conditional statement says what to do in a given situation.
@@ -51,5 +51,6 @@ There are two components to a decision:
 If statements : a condition, if the condition evaluates to true,any statements in the subsequent code block are executed.
 
 **Comparison operators** (===, ! ==, ==, ! =, <, >, <=, =>) are used to compare two operands.
+
 **Logical operators** allow you to combine more than one set of comparison operators.
 
