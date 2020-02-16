@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+# Code 201 Reading Notes
 
-You can use the [editor on GitHub](https://github.com/samahthwib/reading-notes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Welcome To Our Website
+##### In this repository you find a summary for some subjects in *Duckett HTML book* and *Duckett JS book*.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+READS        | LINKS
+------------ | -------------
+Read: 01  | [Read1](https://pages.github.com/)
+Read: 02  | [Read2]()
+Read: 03  | [Read3]()
+Read: 04  | [Read4]()
+Read: 05  | [Read5]()
+Read: 06  | [Read6]()
+Read: 07  | [Read7]()
+Read: 08  | [Read8]()
+Read: 09  | [Read9]()
+Read: 10  | [Read10]()
+Read: 11  | [Read11]()
+Read: 12  | [Read12]()
+Read: 13  | [Read13]()
+Read: 14  | [Read14]()
+Read: 15  | [Read15]()
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+1. Styling text : You can indicate emphasis with bold, italic, or strikethrough text.
+2. Quoting text : You can quote text with a >.
+3. List : You can make an unordered list by preceding one or more lines of text with - or *.
+4. Mentioning people and teams : You can mention a person or team on GitHub by typing @ plus their username or team name.
+5. Using emoji You can add emoji to your writing by typing :EMOJICODE:.
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/samahthwib/reading-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+
+
+
