@@ -9,7 +9,7 @@
 
 READS        | LINKS
 ------------ | -------------
-Read: 01  | [Read1](https://pages.github.com/)
+Read: 01  | [Read1]()
 Read: 02  | [Read2]()
 Read: 03  | [Read3]()
 Read: 04  | [Read4]()
