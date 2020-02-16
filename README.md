@@ -9,11 +9,7 @@
 
 READS        | LINKS
 ------------ | -------------
-<<<<<<< HEAD
 Read: 01  | [Read1](https://samahthwib.github.io/reading-notes/class-01)
-=======
-Read: 01  | [Read1](https://samahthwib.github.io/reading-notes/class-01/)
->>>>>>> c5f4e0f69233a1edccc8c2cac78e6edc541d221d
 ------------ | -------------
 Read: 02  | [Read2]()
 ------------ | -------------
