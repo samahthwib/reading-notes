@@ -8,7 +8,7 @@
 * (<html> </html>)
 * (<body> </body>)
 
-**Attributes** provide additional information about the contents of an element. They appear on the opening tag of the element and are made up of two parts: a name and a value, separated by an equals sign. For example:<a href="https://www.google.com">This is a link</a>
+**Attributes** provide additional information about the contents of an element. They appear on the opening tag of the element and are made up of two parts: a name and a value, separated by an equals sign. For example:<a (href="https://www.google.com">This is a link</a>)
 **<body>** Everything inside this element is shown inside the main browser window.
 **<head>** This contains information about the page.
 **<title>** The contents of this element are either shown in the top of the browser, above where you usually type in the URL of the page you want to visit.
@@ -55,3 +55,40 @@ so now you need to work out what information they need in order to achieve their
 
 Site navigation not only helps people find where they want to go, but also
 helps them understand what your site is about and how it is organized.
+
+
+**JAVASCRIPT**
+
+1. What is a script  and how do I create one ?
+A script is a series of instructions that a computer can follow to achieve a goal. To write a script, you need to first state your goal and then list the tasks that need to be completed in order to achieve it.
+Computers approach tasks in a different way than humans, so your instructions must let the computer solve the task programmatically.
+
+**OBJECTS** (THINGS) In computer programming, each physica l thing in the world can be represented as an object. There are two different types of objects here: a hotel and a car. Programmers might say that there is one instance of the hotel object, and two instances of the car object.
+Each object can have its own:
+* Properties
+* Events
+* Methods
+Together they create a working model of that object.
+
+2. WHAT IS AN EVENT?
+There are common ways in which people interact with each type of object.
+
+3. WHAT IS A METHOD?
+Methods typically represent how people (or other things) interact with an object in the real world. The code for a method can contain lots of instructions that together represent one task.
+
+JavaScript is written in plain text, just like HTML and CSS, so you do not need any new tools to write a script.
+When you want to use *JavaScript* with a web page, you use the HTML (<script>) 
+element to tell the browser it is coming across a script. Its s re attribute tells people where the JavaScript file is stored.
+You may see JavaScript in the HTML between opening (<script>)
+ and closing (</script>) tags 
+(but it is better to put scripts in their own files).
+
+When the browser comes across a (<script>) 
+element, it stops to load the script and then checks to see if it needs to do anything.
+
+
+
+
+
+
+
