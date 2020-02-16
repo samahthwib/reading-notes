@@ -4,9 +4,9 @@
 ###### When you visit a website, the web server hosting that site could be anywhere in the world. In order for you to find the location of the web server, your browser will first connect to a Domain Name System (DNS) server.
 
 **HTML** Describes the Structure of Pages by using elements. it has Tags act like containers. They tell you something about the information that lies between their opening and closing tags. For example: 
-* <p> </p>
-* <html> </html>
-* <body> </body>
+* (<p> </p>)
+* (<html> </html>)
+* (<body> </body>)
 
 **Attributes** provide additional information about the contents of an element. They appear on the opening tag of the element and are made up of two parts: a name and a value, separated by an equals sign. For example:<a href="https://www.google.com">This is a link</a>
 **<body>** Everything inside this element is shown inside the main browser window.
@@ -30,10 +30,10 @@ elements on the same page have the same value for their id attributes
 as being different from the other elements on the page.
 
 **BLOCKELEMENTS** Some elements will always appear to start on a new line in the browser window. These are known as block level elements. Examples of block elements are
-<h1>, <p>, <ul>, and <li>.
+(<h1>, <p>, <ul>, and <li>).
 
 
-###### Some elements will always appear to continue on the same line as their neighbouring elements. These are known as inline elements.Examples of inline elements are <a>, <b>, <em>, and <img>.
+ Some elements will always appear to continue on the same line as their neighbouring elements. These are known as inline elements.Examples of inline elements are <a>, <b>, <em>, and <img>.
 
 **Grouping Text & Elements In a Block:**
 1-	The <div> element allows you to group a set of elements together in one block-level box.
