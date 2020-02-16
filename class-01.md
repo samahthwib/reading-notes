@@ -8,6 +8,7 @@
 * `<html>` `</html>`
 * `<body>` `</body>`
 
+
 **Attributes** provide additional information about the contents of an element. They appear on the opening tag of the element and are made up of two parts: a name and a value, separated by an equals sign. For example:`<a href="https://www.google.com">This is a link</a>`
 **`<body>`** Everything inside this element is shown inside the main browser window.
 **`<head>`** This contains information about the page.
