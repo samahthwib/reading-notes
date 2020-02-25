@@ -23,7 +23,7 @@ Read: 06  | [Read6](https://samahthwib.github.io/reading-notes/class-06)
 ------------ | -------------
 Read: 07  | [Read7](https://samahthwib.github.io/reading-notes/class-07)
 ------------ | -------------
-Read: 08  | [Read8]()
+Read: 08  | [Read8](https://samahthwib.github.io/reading-notes/class-08)
 ------------ | -------------
 Read: 09  | [Read9]()
 ------------ | -------------
