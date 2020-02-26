@@ -1,4 +1,4 @@
-### **Errors Handeling $ Debugging**
+### **Errors Handeling & Debugging**
 
 To find the source of an error, it helps to know how scripts are processed.
 The order in which statements are executed can be complex; some tasks
