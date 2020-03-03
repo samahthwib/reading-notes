@@ -35,9 +35,9 @@ Read: 12  | [Read12](https://samahthwib.github.io/reading-notes/class-12)
 ------------ | -------------
 Read: 13  | [Read13](https://samahthwib.github.io/reading-notes/class-13)
 ------------ | -------------
-Read: 14  | [Read14]()
+Read: 14  | [Read14](https://samahthwib.github.io/reading-notes/class-14)
 ------------ | -------------
-Read: 15  | [Read15]()
+Read: 15  | [Read15](https://samahthwib.github.io/reading-notes/class-15)
 ------------ | -------------
 
 
