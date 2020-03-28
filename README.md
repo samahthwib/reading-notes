@@ -8,7 +8,7 @@
 
 READS        | LINKS
 ------------ | -------------
-Read: 01  | [Read1](https://samahthwib.github.io/reading-notes/class-1a)
+Read: 01  | [Read1](https://samahthwib.github.io/reading-notes/class1a)
 ------------ | -------------
 Read: 02  | 
 ------------ | -------------
