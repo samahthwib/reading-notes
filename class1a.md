@@ -13,7 +13,7 @@
 2. media queries
 3. flexible media
 
-###### Media Queries
+###### **Media Queries**
 It is provide the ability to specify different styles for individual browser and device circumstances, the width of the viewport or device orientation for example.
 
 There are a couple different ways to use media queries:
@@ -31,14 +31,14 @@ Media Features in Media Queries
 
 ----------------------------------------------
 
-###### Floats
+###### **Floats**
 Float is a CSS positioning property.There are four valid values for the float property.*Left*,*Right*,*None*,*Inherit*.It can be used to create entire web layouts.It is helpful for layout in smaller instances.
 Float's sister property is <clear>
 
 
 ----------------------------------------------
 
-###### SMACSS
+###### **SMACSS**
 
 It is more style guide than rigid framework. There is no library within here for you to download or install. SMACSS is a way to examine your design process and as a way to fit those rigid frameworks into a flexible thought process.
 
