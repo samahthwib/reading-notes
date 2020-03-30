@@ -10,7 +10,7 @@ READS        | LINKS
 ------------ | -------------
 Read: 01  | [Read1](https://samahthwib.github.io/reading-notes/class1a)
 ------------ | -------------
-Read: 02  | 
+Read: 02  | [Read1](https://samahthwib.github.io/reading-notes/class2a)
 ------------ | -------------
 Read: 03  | 
 ------------ | -------------
