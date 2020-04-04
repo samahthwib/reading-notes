@@ -18,7 +18,7 @@ Read: 04  | [Read4](https://samahthwib.github.io/reading-notes/class4a)
 ------------ | -------------
 Read: 05  | [Read5](https://samahthwib.github.io/reading-notes/class5a)
 ------------ | -------------
-Read: 06  | 
+Read: 06  | [Read5](https://samahthwib.github.io/reading-notes/class6a)
 ------------ | -------------
 Read: 07  | 
 ------------ | -------------
