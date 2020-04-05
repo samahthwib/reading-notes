@@ -20,7 +20,7 @@ Read: 05  | [Read5](https://samahthwib.github.io/reading-notes/class5a)
 ------------ | -------------
 Read: 06  | [Read6](https://samahthwib.github.io/reading-notes/class6a)
 ------------ | -------------
-Read: 07  | 
+Read: 07  | [Read7](https://samahthwib.github.io/reading-notes/class7a)
 ------------ | -------------
 Read: 08  | 
 ------------ | -------------
