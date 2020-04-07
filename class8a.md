@@ -5,13 +5,13 @@ stand for *Structured Query Language*, It's a language designed to allow both te
 ### **Relational databases**
  represents a collection of related (two-dimensional) tables. Each of the tables are similar to an Excel spreadsheet, with a fixed number of named columns (the attributes or properties of the table) and any number of rows of data.
 
- *SELECT*  To retrieve data from a SQL database
- *DISTINCT* By using DISTINCT SQL provides a convenient way to discard rows that have a duplicate column value 
- *ORDER BY* a way to sort your results by a given column in ascending or descending order
+ * *SELECT*  To retrieve data from a SQL database
+ * *DISTINCT* By using DISTINCT SQL provides a convenient way to discard rows that have a duplicate column value 
+ * *ORDER BY* a way to sort your results by a given column in ascending or descending order
 
  EXAMPLE: 
  `SELECT * FROM Customers`; 
------------------------------------------------------
+
 
  #### Each query begins with finding the data that we need in a database, and then filtering that data down into something that can be processed and understood as quickly as possible. Because each part of the query is executed sequentially
 
