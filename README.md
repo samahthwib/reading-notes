@@ -28,7 +28,7 @@ Read: 09  | [Read9](https://samahthwib.github.io/reading-notes/class9a)
 ------------ | -------------
 Read: 10  | [Read10](https://samahthwib.github.io/reading-notes/class-10a) 
 ------------ | -------------
-Read: 11  | 
+Read: 11  | [Read11](https://samahthwib.github.io/reading-notes/class-11a) 
 ------------ | -------------
 Read: 12  | 
 ------------ | -------------
