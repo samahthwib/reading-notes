@@ -32,7 +32,7 @@ Read: 11  | [Read11](https://samahthwib.github.io/reading-notes/class-11a)
 ------------ | -------------
 Read: 12  | [Read12](https://samahthwib.github.io/reading-notes/class-12a)
 ------------ | -------------
-Read: 13  | 
+Read: 13  | [Read13](https://samahthwib.github.io/reading-notes/class-13a)
 ------------ | -------------
 Read: 14  | 
 ------------ | -------------
